@@ -113,6 +113,11 @@ http://127.0.0.1:5000
 
 -----
 
+👨‍💻 My Contribution
+Data preprocessing and cleaning
+Feature selection
+Model building and evaluation
+
 ## 📌 GitHub Repository
 
 ```
